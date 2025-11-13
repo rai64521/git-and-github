@@ -1,0 +1,15 @@
+devops git and github 
+
+commands
+
+
+git init
+git add filename
+git commit -m"message"
+git push
+
+git status
+
+git branch
+
+git config --list    to see git configuration
