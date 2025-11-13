@@ -1,0 +1,10 @@
+git command 
+
+git init
+git add
+git commit
+git push
+
+git clone      Its use for clone the repository
+git status     to check the git status and file steps
+
